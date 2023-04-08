@@ -1,12 +1,17 @@
 <!-- ### Hi there 👋 -->
 [![wakatime](https://wakatime.com/badge/user/13d849e0-8b74-495a-bed8-a3f4b8869924.svg)](https://wakatime.com/@13d849e0-8b74-495a-bed8-a3f4b8869924)
 
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ssh00n&show_icons=true&theme=onedark">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssh00n&theme=onedark">
+</p>
+
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wwiviww)](https://solved.ac/wwiviww)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssh00n&show_icons=true&theme=onedark)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssh00n&show_icons=true&theme=onedark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssh00n&theme=onedark)](https://github.com/ssh00n/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssh00n&theme=onedark)](https://github.com/ssh00n/github-readme-stats) -->
 
 <!--
 **ssh00n/ssh00n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
