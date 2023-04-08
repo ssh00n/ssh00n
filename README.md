@@ -2,7 +2,7 @@
 
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={wwiviww})](https://solved.ac/{wwiviww})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wwiviww)](https://solved.ac/wwiviww)
 
 <!--
 **ssh00n/ssh00n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
