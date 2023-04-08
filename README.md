@@ -1,5 +1,5 @@
-### Hi there 👋
-
+<!-- ### Hi there 👋 -->
+[![wakatime](https://wakatime.com/badge/user/13d849e0-8b74-495a-bed8-a3f4b8869924.svg)](https://wakatime.com/@13d849e0-8b74-495a-bed8-a3f4b8869924)
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wwiviww)](https://solved.ac/wwiviww)
