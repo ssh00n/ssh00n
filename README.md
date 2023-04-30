@@ -26,9 +26,11 @@
 
 <!-- [![Solved.ac -->
 <!-- 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wwiviww)](https://solved.ac/wwiviww) -->
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ssh00n&show_icons=true&theme=onedark">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssh00n&theme=onedark">
+<p align="center" styled="display : flex; flex-direction : column">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ssh00n&show_icons=true&theme=onedark"
+                           style="display : flex; height : auto; margin-left : 10px; margin-right : 10px;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssh00n&theme=onedark"
+                           style="display : flex; height : auto; margin-left : 10px; margin-right : 10px;">
 </p>
 
 
