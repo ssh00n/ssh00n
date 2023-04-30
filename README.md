@@ -1,5 +1,5 @@
 <!-- ### Hi 👋 -->
-<!-- [![wakatime](https://wakatime.com/badge/user/13d849e0-8b74-495a-bed8-a3f4b8869924.svg)](https://wakatime.com/@13d849e0-8b74-495a-bed8-a3f4b8869924) -->
+[![wakatime](https://wakatime.com/badge/user/13d849e0-8b74-495a-bed8-a3f4b8869924.svg)](https://wakatime.com/@13d849e0-8b74-495a-bed8-a3f4b8869924)
 
 
 [![Solved.ac
@@ -13,6 +13,11 @@
 <br>
 
 <p align="center" styled="display : flex; flex-direction : column">
+<a href="https://wakatime.com/@13d849e0-8b74-495a-bed8-a3f4b8869924">
+    <img 
+        src="https://wakatime.com/badge/user/13d849e0-8b74-495a-bed8-a3f4b8869924.svg"
+        style="display: flex; height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
 <a href="https://velog.io/@ssh00n">
     <img 
         src="http://img.shields.io/badge/-Velog-00aaa7?style=flat&logo=Vector Logo Zone&link=https://velog.io/@ssh00n"
