@@ -2,7 +2,7 @@
 <!-- [![wakatime](https://wakatime.com/badge/user/13d849e0-8b74-495a-bed8-a3f4b8869924.svg)](https://wakatime.com/@13d849e0-8b74-495a-bed8-a3f4b8869924) -->
 
 
-![transparent](https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:000000&text=H00n&height=150&fontSize=30&animation=twinkling)
+![transparent](https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:000000&text=Hi 👋&height=150&fontSize=30&animation=twinkling)
 <br>
 
 <p align="center" styled="display : flex; flex-direction : column">
