@@ -9,6 +9,23 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssh00n&theme=onedark">
 </p>
 
+![transparent](https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:000000&text=youngcheon&height=150&fontSize=30&animation=twinkling)
+<br>
+
+<p align="center" styled="display : flex; flex-direction : column">
+<a href="https://velog.io/@ssh00n">
+    <img 
+        src="http://img.shields.io/badge/-Velog-00aaa7?style=flat&logo=Vector Logo Zone&link=https://velog.io/@ssh00n"
+        style="display : flex; height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+<a href="https://solved.ac/profile/wwiviww">
+    <img 
+        src="http://mazassumnida.wtf/api/mini/generate_badge?boj=wwiviww"
+        style="display : flex; height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+</p>
+
+
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssh00n&show_icons=true&theme=onedark)
 
