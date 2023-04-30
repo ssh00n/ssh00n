@@ -9,7 +9,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssh00n&theme=onedark">
 </p>
 
-![transparent](https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:000000&text=youngcheon&height=150&fontSize=30&animation=twinkling)
+![transparent](https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:000000&text=Seunghun&height=150&fontSize=30&animation=twinkling)
 <br>
 
 <p align="center" styled="display : flex; flex-direction : column">
