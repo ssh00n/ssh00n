@@ -7,7 +7,7 @@
 
 <p align="center" styled="display : flex; flex-direction : column">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>    
-<a href="https://wakatime.com/@13d849e0-8b74-495a-bed8-a3f4b8869924">
+<!-- <a href="https://wakatime.com/@13d849e0-8b74-495a-bed8-a3f4b8869924">
     <img 
         src="https://wakatime.com/badge/user/13d849e0-8b74-495a-bed8-a3f4b8869924.svg"
         style="display: flex; height : auto; margin-left : 10px; margin-right : 10px;"/>
@@ -21,7 +21,7 @@
     <img 
         src="http://mazassumnida.wtf/api/mini/generate_badge?boj=wwiviww"
         style="display : flex; height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
+</a> -->
 </p>
 
 
