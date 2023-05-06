@@ -36,9 +36,9 @@
 
 
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssh00n&show_icons=true&theme=onedark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssh00n&show_icons=true&theme=onedark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssh00n&theme=onedark)](https://github.com/ssh00n/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssh00n&theme=onedark)](https://github.com/ssh00n/github-readme-stats)
 
 <!--
 **ssh00n/ssh00n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
