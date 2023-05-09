@@ -4,7 +4,6 @@
 
 ![transparent](https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:000000&text=Hi👋&height=150&fontColor=white&fontSize=30&animation=twinkling)
 <br>
-
 <p align="center" styled="display : flex; flex-direction : column">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>    
 <a href="https://wakatime.com/@13d849e0-8b74-495a-bed8-a3f4b8869924">
