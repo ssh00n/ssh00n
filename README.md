@@ -10,7 +10,8 @@
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={wwiviww})](https://solved.ac/{wwiviww})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wwiviww)](https://solved.ac/wwiviww)
+
 
 <!-- <p align="center" styled="display : flex; flex-direction : column"> -->
 
