@@ -3,15 +3,18 @@
 
 ![transparent](https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:000000&text=Hi👋&height=150&fontColor=white&fontSize=30&animation=twinkling)
 <br>
-<p align="center" styled="display : flex; flex-direction : column">
-    
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<p align="center">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+</p>
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wwiviww)](https://solved.ac/wwiviww)
+<p align="center">
+    <a href="https://solved.ac/wwiviww">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wwiviww">
+    </a>
+</p>
 <!-- ![Seunghun's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssh00n&show_icons=true&theme=onedark) -->
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssh00n)](https://github.com/ssh00n/github-readme-stats&theme=radical) -->
