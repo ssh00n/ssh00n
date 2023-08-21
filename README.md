@@ -18,7 +18,7 @@
         src="http://mazassumnida.wtf/api/mini/generate_badge?boj=wwiviww"
         style="display : flex; height : auto; margin-left : 10px; margin-right : 10px;"/>
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={wwiviww})](https://solved.ac/{wwiviww})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={wwiviww})](https://solved.ac/{wwiviww})</br>
 
 </p>
 
