@@ -11,7 +11,9 @@
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wwiviww)](https://solved.ac/wwiviww)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssh00n)](https://github.com/ssh00n/github-readme-stats&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=onedark)
+
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssh00n)](https://github.com/ssh00n/github-readme-stats&theme=radical) -->
 
 <!-- <p align="center" styled="display : flex; flex-direction : column"> -->
 
