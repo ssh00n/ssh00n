@@ -1,52 +1,20 @@
 <!-- ### Hi 👋 -->
-<!-- [![wakatime](https://wakatime.com/badge/user/13d849e0-8b74-495a-bed8-a3f4b8869924.svg)](https://wakatime.com/@13d849e0-8b74-495a-bed8-a3f4b8869924) -->
-
 ![transparent](https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:000000&text=Hi👋&height=150&fontColor=white&fontSize=30&animation=twinkling)
 <br>
-<!-- <p align="center">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-</p>
 
-<p align="center">
-    <a href="https://solved.ac/wwiviww">
-        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wwiviww">
-    </a>
-</p> 
--->
+## 👨‍💻 About Me
 
+- 🛠️ **Backend Developer** with a passion for building robust and scalable systems.
+- 🚀 Proficient in the **NestJS Framework** for developing efficient and maintainable web applications.
+- 💻 Languages I work with:
+  - C ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white)
+  - Python ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+  - TypeScript ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=TypeScript&logoColor=white)
+- 🩺 Previously studied **Medical AI** and have a strong interest in **Artificial Intelligence**.
 
+## 📫 Contact Me
+- 📧 Email: [seunghunshin1284@gmail.com](mailto:seunghunshin1284@gmail.com)
 
+---
 
-<!-- ![Seunghun's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssh00n&show_icons=true&theme=onedark) -->
-
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssh00n)](https://github.com/ssh00n/github-readme-stats&theme=radical) -->
-
-<!-- <p align="center" styled="display : flex; flex-direction : column"> -->
-
-  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ssh00n&show_icons=true&theme=onedark"
-                           style="display : flex; height : auto; margin-left : 10px; margin-right : 10px;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssh00n&theme=onedark"
-                           style="display : flex; height : auto; margin-left : 10px; margin-right : 10px;"> -->
-<!-- <p align="center" styled="display : flex; flex-direction : column">
-    [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={wwiviww})](https://solved.ac/{wwiviww})
-</p> -->
-
-
-<!--
-**ssh00n/ssh00n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ffffff&height=100&section=footer)
